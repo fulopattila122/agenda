@@ -6,7 +6,7 @@
 
 1. Download & uncompress this repo [master.zip](https://github.com/fulopattila122/agenda/archive/master.zip) (or `git clone https://github.com/fulopattila122/agenda.git`)
 2. Create a database in MySQL
-3. Edit `.env.example` and change these 3 lines to your settings:
+3. Edit `.env.example` and change these 3 lines according to your settings:
     ```bash
     # Make sure there's no space before&after the '=' sign
     DB_DATABASE=agenda
